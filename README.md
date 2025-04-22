@@ -1,4 +1,4 @@
 - Developing on the following topics:
-  - **Linux, Docker, Kubernetes, Ansible, VMware ESXI, OpenShift, Active Directory, Hardening, Proxmox, PostgreSQL DBMS, Security, , Storage, , Cloud, Blockchain**
+  - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, ,Prometheus, Zabbix, Proxmox, PostgreSQL, Security, Neetworking, Storage, Azure, Office365, Blockchain**
     
 ![Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent)
