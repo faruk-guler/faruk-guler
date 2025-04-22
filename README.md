@@ -6,6 +6,7 @@
 ### 🔧 Skills:
 
 <img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png" />
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png" />
