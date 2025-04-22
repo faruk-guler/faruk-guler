@@ -7,6 +7,7 @@
 
 <img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
+<img align="left" alt="Bima-CSS" height="50" src="https://en.wikipedia.org/wiki/File:OpenShift-LogoType.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.worldvectorlogo.com/logos/vmware.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
