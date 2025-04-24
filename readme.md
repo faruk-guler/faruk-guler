@@ -19,7 +19,7 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
-<img align="left" alt="Bima-CSS" height="50" src="https://cdn.worldvectorlogo.com/logos/vmware.svg">
+<img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vmware-by-broadcom.svg/500px-Vmware-by-broadcom.svg.png">
 <img align="left" alt="Nmap-CSS" height="50" src="https://nmap.org/images/sitelogo-2x.png">
 <img align="left" alt="ZABBIX-CSS" height="50" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img align="left" alt="Exchange-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
