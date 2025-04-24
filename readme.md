@@ -1,7 +1,7 @@
 - Mastering Systems with a Decentralized Mentality:
   - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent&color=green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent)
 <p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler" /> </p><!-- start: 2021/11/22 -->
 
 ### 🔧 Skills:
