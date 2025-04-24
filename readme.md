@@ -1,4 +1,4 @@
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 - Mastering Systems with a Decentralized Mentality:
   - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**
     
