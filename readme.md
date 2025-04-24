@@ -21,4 +21,4 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
 
-<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2021/11/22 -->
+<p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler" /> </p><!-- start: 2021/11/22 -->
