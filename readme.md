@@ -1,3 +1,4 @@
+<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2022/10/18 -->
 
 
 
@@ -26,4 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk-guler&show_icons=true&locale=tr&layout=compact" alt="faruk-guler" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-guler" alt="faruk-guler" /></p>
