@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilgun" alt="nilgun" /></p>
+
 
 
 - Mastering Systems with a Decentralized Mentality:
@@ -25,3 +25,5 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk-guler&show_icons=true&locale=tr&layout=compact" alt="faruk-guler" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk-guler" alt="faruk-guler" /></p>
