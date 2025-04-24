@@ -12,6 +12,7 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://www.logo.wine/a/logo/OpenShift/OpenShift-Logo.wine.svg">
+<img align="left" alt="Veeam-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
