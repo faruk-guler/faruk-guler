@@ -16,7 +16,6 @@
 <img align="left" alt="Nginx-CSS" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
 <img align="left" alt="Opensense-CSS" height="50" src="https://www.telekim.de/uploads/tx_revslider/media/f2445-OPN_sense_Logo_Partner_de.jpg">
 <img align="left" alt="Veeam-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="rancher-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="proxmox-CSS" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="vmware-CSS" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
@@ -27,6 +26,7 @@
 <img align="left" alt="Bash-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img align="left" alt="office365-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Azure-CSS" height="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
 <img align="left" alt="PS-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
