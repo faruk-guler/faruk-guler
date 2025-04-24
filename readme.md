@@ -1,6 +1,6 @@
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilgun&show_icons=true&locale=tr&layout=compact" alt="faruk-guler" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilgun&show_icons=true&locale=en&&count_private=true&include_all_commits=true" alt="nilgun" /></p>
 
