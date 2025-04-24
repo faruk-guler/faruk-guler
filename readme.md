@@ -6,7 +6,7 @@
 
 ### 🔧 Skills:
 
-<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
