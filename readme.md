@@ -19,6 +19,6 @@
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png" />
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
-<img align="left" alt="Azure-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1024px-Microsoft_Azure_Logo.svg.png">
+<img align="left" alt="Azure-CSS" height="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
 <img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
