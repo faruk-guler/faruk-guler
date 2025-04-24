@@ -16,6 +16,7 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.worldvectorlogo.com/logos/vmware.svg">
+<img align="left" alt="Exchange-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Bima-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png" />
 <img align="left" alt="Bima-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
