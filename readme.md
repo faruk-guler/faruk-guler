@@ -21,4 +21,5 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
 <img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-guler&layout=compact)
