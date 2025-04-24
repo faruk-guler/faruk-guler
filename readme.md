@@ -1,5 +1,5 @@
 - Mastering Systems with a Decentralized Mentality:
-  - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**
+  - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**.
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent)
 
