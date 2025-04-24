@@ -13,7 +13,7 @@
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png">
 <img align="left" alt="Postresql-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx-CSS" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
-<img align="left" alt="Opensense-CSS" height="50" src="https://www.telekim.de/uploads/tx_revslider/media/f2445-OPN_sense_Logo_Partner_de.jpg">
+<img align="left" alt="Opensense-CSS" height="50" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img align="left" alt="Veeam-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Openshift-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
 <img align="left" alt="rancher-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
