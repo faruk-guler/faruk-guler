@@ -14,6 +14,7 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://www.logo.wine/a/logo/OpenShift/OpenShift-Logo.wine.svg">
 <img align="left" alt="Postresql-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx-CSS" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
+<img align="left" alt="Opensense-CSS" height="50" src="https://docs.opnsense.org/_static/deciso-logo-verticaal.jpg">
 <img align="left" alt="Veeam-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Bima-CSS" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
