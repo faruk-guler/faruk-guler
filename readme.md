@@ -24,6 +24,5 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
 <img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk-guler&show_icons=true&locale=tr&layout=compact" alt="faruk-guler" /></p>
+<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2022/10/18 -->
 
