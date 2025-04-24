@@ -1,7 +1,3 @@
-<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2022/10/18 -->
-
-
-
 - Mastering Systems with a Decentralized Mentality:
   - **Linux, VMware ESXI, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**
     
@@ -24,5 +20,5 @@
 <img align="left" alt="Bima-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
 <img align="left" alt="Bima-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
-<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2022/10/18 -->
 
+<p> <img src="https://komarev.com/ghpvc/?username=nilgun&label=Profile%20views&color=0e75b6&style=flat" alt="nilgun" /> </p><!-- start: 2021/11/22 -->
