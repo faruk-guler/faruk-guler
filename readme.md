@@ -28,6 +28,6 @@
 <img align="left" alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
 <img align="left" alt="office365-CSS" height="50" src="https://ofmark.com/media/45496/catalog/80000811-01.jpg">
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Azure-CSS" height="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
+<img align="left" alt="Azure-CSS" height="50" src="https://roommanager365.com/wp-content/uploads/2021/03/Office-365-Blue.jpg">
 <img align="left" alt="PS-CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
