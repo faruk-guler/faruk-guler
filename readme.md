@@ -9,11 +9,11 @@
 <img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
 <img align="left" alt="Win" height="50" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
+<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="ad" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png">
 <img align="left" alt="Postresql" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
-<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Nginx" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
 <img align="left" alt="Opensense" height="50" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
