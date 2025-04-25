@@ -13,6 +13,7 @@
 <img align="left" alt="Bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png">
 <img align="left" alt="Postresql" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
+<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Nginx" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
 <img align="left" alt="Opensense" height="50" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
@@ -20,7 +21,6 @@
 <img align="left" alt="Openshift" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
 <img align="left" alt="rancher" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
 <img align="left" alt="proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
-<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
 <img align="left" alt="Wireshark" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png">
 <img align="left" alt="ZABBIX" height="50" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
