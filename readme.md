@@ -18,6 +18,7 @@
 <img align="left" alt="Veeam" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Openshift" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
 <img align="left" alt="rancher" height="50" src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-stacked-color.svg">
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
 <img align="left" alt="Wireshark" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png">
@@ -25,7 +26,6 @@
 <img align="left" alt="Exchange" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
 <img align="left" alt="office365" height="50" src="https://roommanager365.com/wp-content/uploads/2021/03/Office-365-Blue.jpg">
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Azure" height="50" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
