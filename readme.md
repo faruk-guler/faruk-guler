@@ -20,7 +20,7 @@
 <img align="left" alt="rancher" height="50" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
 <img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
-<img align="left" alt="Nmap" height="50" src="https://www.vhv.rs/dpng/d/608-6083498_nmap-logo-hd-png-download.png">
+<img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
 <img align="left" alt="Wireshark" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png">
 <img align="left" alt="ZABBIX" height="50" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img align="left" alt="Exchange" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
