@@ -7,7 +7,6 @@
 <img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
 <img align="left" alt="Win" height="50" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
-<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="ad" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="Ansible" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ansible/ansible.png">
@@ -18,6 +17,7 @@
 <img align="left" alt="Veeam" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Openshift" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
 <img align="left" alt="rancher" height="50" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
+<img align="left" alt="vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
