@@ -25,7 +25,7 @@
 <img align="left" alt="ZABBIX" height="55" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img align="left" alt="Exchange" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Python" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
-<img align="left" alt="office365" height="55" src="https://roommanager365.com/wp-content/uploads/2021/03/Office-365-Blue.jpg">
+<img align="left" alt="Office365" height="55" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
 <img align="left" alt="Azure" height="55" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img align="left" alt="PS" height="55" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
