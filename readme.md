@@ -21,7 +21,7 @@
 <img align="left" alt="vmware" height="55" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="proxmox" height="55" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="Nmap" height="55" src="https://nmap.org/images/sitelogo-2x.png">
-<img align="left" alt="Wireshark" height="55" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png">
+<img align="left" alt="Wireshark" height="55" src="https://toppng.com/uploads/preview/wireshark-logo-11609382942vjcyjprh2j.png">
 <img align="left" alt="ZABBIX" height="55" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img align="left" alt="Exchange" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Python" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
