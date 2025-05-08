@@ -4,17 +4,17 @@
 <p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler"/>
 
 ### 🔧 My Skills:
-<img align="left" alt="Kubernetes" width="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
-<img align="left" alt="linux" width="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
+<img align="left" alt="Kubernetes" height="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
+<img align="left" alt="linux" height="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
 <img align="left" alt="Win" height="55" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
 <img align="left" alt="ad" height="55" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Bash" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-<img align="left" alt="Ansible" height="55" src="https://cdn.cs.1worldsync.com/b9/5b/b95b63fc-26e3-47bf-a63d-3c102e7bd52f.jpg">
+<img align="left" alt="Ansible" height="55" src="https://d-nix.nl/wp-content/uploads/2020/11/GettingStartedWithAnsible-1200x780-1.png">
 <img align="left" alt="Postresql" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx" height="55" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
 <img align="left" alt="OPNSense" height="55" src="https://i.imgur.com/LgzoaOQ.jpeg">
-<img align="left" alt="docker" width="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
-<img align="left" alt="Git" width="55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
+<img align="left" alt="docker" height="55" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
+<img align="left" alt="Git" height="55" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img align="left" alt="Veeam" height="55" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Openshift" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
 <img align="left" alt="rancher" height="55" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
