@@ -9,7 +9,7 @@
 <img align="left" alt="Win" height="55" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
 <img align="left" alt="ad" height="55" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Bash" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-<img align="left" alt="Ansible" height="55" src="https://d-nix.nl/wp-content/uploads/2020/11/GettingStartedWithAnsible-1200x780-1.png">
+<img align="left" alt="Ansible" height="55" src="https://techfieldday.com/wp-content/uploads/2018/06/Ansible_RH_AnsibleAutomation_RGB_RedBlack.png">
 <img align="left" alt="Postresql" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx" height="55" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
 <img align="left" alt="OPNSense" height="55" src="https://i.imgur.com/LgzoaOQ.jpeg">
