@@ -13,8 +13,6 @@
 <img align="left" alt="Docker" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img align="left" alt="Postresql" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
-<img align="left" alt="Wireshark" height="50" src="https://i.imgur.com/ml2fxbW.png">
-<img align="left" alt="OPNSense" height="50" src="https://i.imgur.com/LgzoaOQ.jpeg">
 <img align="left" alt="Git" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img align="left" alt="Veeam" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Openshift" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1122px-OpenShift-LogoType.svg.png">
@@ -27,5 +25,7 @@
 <img align="left" alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
 <img align="left" alt="Office365" height="50" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
 <img align="left" alt="Azure" height="50" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
+<img align="left" alt="OPNSense" height="50" src="https://i.imgur.com/LgzoaOQ.jpeg">
+<img align="left" alt="Wireshark" height="50" src="https://i.imgur.com/ml2fxbW.png">
 <img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
