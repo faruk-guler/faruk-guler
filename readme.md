@@ -25,8 +25,8 @@
 <img align="left" alt="Exchange" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
 <img align="left" alt="Office365" height="50" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
-<img align="left" alt="Azure" height="50" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img align="left" alt="OPNSense" height="50" src="https://i.imgur.com/LgzoaOQ.jpeg">
+<img align="left" alt="Azure" height="50" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img align="left" alt="Wireshark" height="50" src="https://i.imgur.com/ml2fxbW.png">
 <img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
