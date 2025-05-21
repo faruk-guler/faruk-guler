@@ -24,6 +24,7 @@
 <img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
 <img align="left" alt="Blockchain" height="50" src="https://i.imgur.com/TrrewJS.png">
 <img align="left" alt="Zabbix" height="50" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
+<img align="left" alt="Raspberry Pi" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg">
 <img align="left" alt="Exchange" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/250px-Microsoft_Exchange_%282019-present%29.svg.png">
 <img align="left" alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/2048px-Text-x-python.svg.png">
 <img align="left" alt="Office365" height="50" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
