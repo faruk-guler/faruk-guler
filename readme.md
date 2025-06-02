@@ -13,9 +13,9 @@
 <img align="left" alt="Bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="Ansible" height="50" src="https://i.imgur.com/5rYpZHx.png">
 <img align="left" alt="Docker" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
+<img align="left" alt="Debian" height="50" src="https://allotmentandy.github.io/assets/img/Debian.svg">
 <img align="left" alt="Postresql" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
 <img align="left" alt="Nginx" height="50" src="https://www.brkdgn.com/wp-content/uploads/2018/01/nginx-logo.png">
-<img align="left" alt="Debian" height="50" src="https://allotmentandy.github.io/assets/img/Debian.svg">
 <img align="left" alt="Git" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img align="left" alt="Veeam" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Rancher" height="50" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
