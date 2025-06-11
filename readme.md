@@ -33,5 +33,6 @@
 <img align="left" alt="Office365" height="50" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
 <img align="left" alt="OPNSense" height="50" src="https://i.imgur.com/LgzoaOQ.jpeg">
 <img align="left" alt="Wireshark" height="50" src="https://i.imgur.com/ml2fxbW.png">
+<img align="left" alt="Ollama" height="50" src="https://ollama.com/public/ollama.png">
 <img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
