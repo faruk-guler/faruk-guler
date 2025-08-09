@@ -24,6 +24,7 @@
 <img align="left" alt="Vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img align="left" alt="Nmap" height="50" src="https://nmap.org/images/sitelogo-2x.png">
+<img align="left" alt="Wazuh" height="50" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
 <img align="left" alt="Blockchain" height="50" src="https://i.imgur.com/TrrewJS.png">
 <img align="left" alt="Azure" height="50" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img align="left" alt="Zabbix" height="50" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
