@@ -11,7 +11,7 @@
 
 ###
 
-### 🔧 My interests and skills:
+### 🔧 interests and skills:
 <img align="left" alt="Kubernetes" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="Linux" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
 <img align="left" alt="Win" height="50" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
