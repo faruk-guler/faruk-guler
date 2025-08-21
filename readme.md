@@ -5,6 +5,12 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent"/>
 <p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler"/>
 
+###
+
+<img align="right" height="400" width="640" src="https://64.media.tumblr.com/e92a9472c0062f530e139d1d86abc620/tumblr_ou6ys7IwmU1w86w6ho1_1280.gif"  />
+
+###
+
 ### 🔧 My interests and skills:
 <img align="left" alt="Kubernetes" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="Linux" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />
