@@ -2,7 +2,7 @@
   - **Linux, VMware ESXI, NSX-T, Active Directory, Ansible, Kubernetes, Docker, OpenShift, Hyper-V, Windows Server, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365, Blockchain**
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faruk-guler&theme=dark"/>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent"/>
-<p> <img align="right" height="400" width="640" src="https://github.com/faruk-guler/faruk-guler/blob/main/NightCoding.gif"/>
+# <p> <img align="right" height="400" width="640" src="https://github.com/faruk-guler/faruk-guler/blob/main/NightCoding.gif"/>
 <p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler"/>
 
 ### 🔧 My interests and skills:
