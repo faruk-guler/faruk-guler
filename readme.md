@@ -1,7 +1,7 @@
 - Mastering Systems with a Decentralized Mentality:
   - **Linux, Windows Server, VMware ESXI, NSX-T, Active Directory, Ansible, Kubernetes, Docker, Podman, OpenShift, Hyper-V, Proxmox, Prometheus, Zabbix, PostgreSQL, Security, Hardening, Networking, Storage, Azure, Office365**
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faruk-guler&theme=dark"/>
-<!-- <p> <img align="right" height="400" width="640" src="https://github.com/faruk-guler/faruk-guler/blob/main/NightCoding.gif"/> -->
+<p> <img align="right" height="400" width="640" src="https://github.com/faruk-guler/faruk-guler/blob/main/NightCoding.gif"/>
 
 ### 🔧 My interests and skills:
 <img align="left" alt="Kubernetes" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
