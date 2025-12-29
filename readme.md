@@ -3,7 +3,6 @@
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faruk-guler&theme=dark"/>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=faruk-guler&show_icons=true&theme=transparent"/>
 <!-- <p> <img align="right" height="400" width="640" src="https://github.com/faruk-guler/faruk-guler/blob/main/NightCoding.gif"/> -->
-# <p> <img src="https://komarev.com/ghpvc/?username=faruk-guler&label=Profile%20views&color=0e75b6&style=flat" alt="faruk-guler"/>
 
 ### 🔧 My interests and skills:
 <img align="left" alt="Kubernetes" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
