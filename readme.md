@@ -18,7 +18,7 @@
 <img align="left" alt="Git" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img align="left" alt="Veeam" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img align="left" alt="Rancher" height="50" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
-<img align="left" alt="OpenStack" height="50" src="https://imgur.com/a/sqB0yjN">
+<img align="left" alt="OpenStack" height="50" src="https://i.imgur.com/zLGSyw5.png">
 <img align="left" alt="Openshift" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/960px-OpenShift-LogoType.svg.png">
 <img align="left" alt="Vmware" height="50" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img align="left" alt="Proxmox" height="50" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
