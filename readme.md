@@ -12,7 +12,7 @@
 <img align="left" alt="Ansible" height="50" src="https://i.imgur.com/5rYpZHx.png">
 <img align="left" alt="Docker" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img align="left" alt="Debian" height="50" src="https://allotmentandy.github.io/assets/img/Debian.svg">
-<img align="left" alt="Rocky Linux" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rocky_Linux_logo.svg/1200px-Rocky_Linux_logo.svg.png">
+<img align="left" alt="Rocky Linux" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg">
 <img align="left" alt="Postgresql" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img align="left" alt="Nginx" height="50" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img align="left" alt="Git" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
