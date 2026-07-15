@@ -7,11 +7,7 @@
 
 <strong>Mastering Systems with a Decentralized Mentality</strong>
 
-<br><br>
-
 Linux • Windows Server • VMware ESXi • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office 365
-
-</td>
 
 <td width="60%" align="center" valign="top">
 
@@ -23,7 +19,6 @@ Linux • Windows Server • VMware ESXi • NSX-T • Active Directory • Ansi
 </table>
 
 <h2 align="center">🔧 My interests and skills</h2>
-
 <p align="center">
 
 <img alt="Linux" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png">
