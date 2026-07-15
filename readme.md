@@ -7,23 +7,18 @@
 
 **Mastering Systems with a Decentralized Mentality**
 
-Linux • Windows Server • VMware ESXi • NSX-T • Active Directory •
-Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V •
-Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening •
-Networking • Storage • Azure
+Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office365
 
-</td>
+
 
 <td width="60%" align="center" valign="top">
 
 <img src="./images/NightCoding.gif" width="100%">
 
-</td>
+
 
 </tr>
 </table>
-
-<br>
 
 <h2 align="center">🔧 My interests and skills</h2>
 
