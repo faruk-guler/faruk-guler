@@ -11,7 +11,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 
 <td width="60%" align="center" valign="top">
 
-<img src="./images/NightCoding.gif" width="100%" alt="Coding">
+<img src="./images/quantum.gif" width="100%" alt="Coding">
 
 </td>
 
