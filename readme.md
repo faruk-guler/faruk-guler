@@ -41,7 +41,6 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img alt="Proxmox" height="45" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img alt="Nmap" height="45" src="https://nmap.org/images/sitelogo-2x.png">
-<img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
 <img alt="Azure" height="45" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
 <img alt="Zabbix" height="45" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img alt="Python" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png">
@@ -50,4 +49,5 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="OPNsense" height="45" src="https://i.imgur.com/iSv1LhQ.png">
 <img alt="Wireshark" height="45" src="https://i.imgur.com/ml2fxbW.png">
 <img alt="Ollama" height="45" src="https://ollama.com/public/ollama.png">
+<img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
 </p>
