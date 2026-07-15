@@ -3,19 +3,21 @@
 
 <td width="40%" valign="top">
 
-## 🖥️ About Me
+<h2>🖥️ About Me</h2>
 
-**Mastering Systems with a Decentralized Mentality**
+<strong>Mastering Systems with a Decentralized Mentality</strong>
 
-Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office365
+<br><br>
 
+Linux • Windows Server • VMware ESXi • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office 365
 
+</td>
 
 <td width="60%" align="center" valign="top">
 
-<img src="./images/NightCoding.gif" width="100%">
+<img src="./images/NightCoding.gif" width="100%" alt="Coding">
 
-
+</td>
 
 </tr>
 </table>
