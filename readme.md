@@ -18,7 +18,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 </tr>
 </table>
 
-<h2 align="left">🔧 My interests and skills</h2>
+<h2 align="left">My interests and skills</h2>
 <p align="left">
 
 <img alt="Linux" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png">
