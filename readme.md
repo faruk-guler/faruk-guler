@@ -9,6 +9,7 @@
 <img align="left" alt="Kubernetes" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
 <img align="left" alt="AD" height="50" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img align="left" alt="Bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+<img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <img align="left" alt="Ansible" height="50" src="https://i.imgur.com/5rYpZHx.png">
 <img align="left" alt="Docker" height="50" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img align="left" alt="Debian" height="50" src="https://allotmentandy.github.io/assets/img/Debian.svg">
@@ -34,5 +35,4 @@
 <img align="left" alt="OPNSense" height="50" src="https://i.imgur.com/iSv1LhQ.png">
 <img align="left" alt="Wireshark" height="50" src="https://i.imgur.com/ml2fxbW.png">
 <img align="left" alt="Ollama" height="50" src="https://ollama.com/public/ollama.png">
-<img align="left" alt="PS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <br />
