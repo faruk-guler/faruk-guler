@@ -9,7 +9,7 @@
 
 Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office365
 
-<td width="60%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 <img src="./images/quantum.gif" width="100%" alt="Coding">
 
