@@ -3,7 +3,7 @@
 
 <td width="40%" valign="top">
 
-<h2>🖥️ About Me</h2>
+<h2>About Me</h2>
 
 <strong>Mastering Systems with a Decentralized Mentality</strong>
 
