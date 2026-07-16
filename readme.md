@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 
 <h2>About Me</h2>
 
