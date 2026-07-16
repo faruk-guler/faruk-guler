@@ -1,17 +1,25 @@
-<img src="./images/quantum.gif" width="300" align="right" alt="Coding">
+<table>
+<tr>
+<td width="40%" valign="top">
 
-## About Me
+<h2>About Me</h2>
 
 I am Faruk GÜLER, an IT server and virtualization administrator. With 11 years of professional experience and accreditation, I am a dedicated and enthusiastic information technology and cybersecurity researcher. I conduct research and studies on the IT world, hacking and security, artificial intelligence, blockchain projects and cryptocurrencies, open-source technologies, and Linux. I also own the blog "farukguler.com," where I write about various technologies and services. I have been actively maintaining this blog since 2021.
 
-## My Focus
+<h2>My Focus</h2>
 Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office365 • Veeam • PowerShell & Bash • Microsoft Entra ID
 
-<br clear="right">
+</td>
+<td width="40%" align="center" valign="top">
 
-## Skills
+<img src="./images/quantum.gif" width="100%" alt="Coding">
+
+</td>
+</tr>
+</table>
+
+<h2 align="left">Skills</h2>
 <p align="left">
-
 <img alt="Linux" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png">
 <img alt="Windows" height="45" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
 <img alt="Kubernetes" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
@@ -41,5 +49,4 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Wireshark" height="45" src="https://i.imgur.com/ml2fxbW.png">
 <img alt="Ollama" height="45" src="https://ollama.com/public/ollama.png">
 <img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
-
 </p>
