@@ -2,6 +2,7 @@
 <tr>
 
 <td width="60%" valign="top">
+</td>
 
 <h2>About Me</h2>
 
