@@ -10,7 +10,7 @@ I am Faruk GÜLER, an IT server and virtualization administrator. With 11 years 
 <h2>My Focus</h2>
 Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansible • Kubernetes • Docker • Podman • OpenShift • Hyper-V • Proxmox • Prometheus • Zabbix • PostgreSQL • Security • Hardening • Networking • Storage • Azure • Office365 • Veeam • PowerShell & Bash • Microsoft Entra ID
 
-<td width="40%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 <img src="./images/quantum.gif" width="100%" alt="Coding">
 
