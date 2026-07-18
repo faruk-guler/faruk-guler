@@ -28,7 +28,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="PowerShell" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
 <img alt="Ansible" height="45" src="https://i.imgur.com/5rYpZHx.png">
 <img alt="Docker" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
-<img alt="Debian" height="45" src="https://allotmentandy.github.io/assets/img/Debian.svg">
+<img alt="Debian" height="45" src="https://i.imgur.com/Oaw9JpX.png">
 <img alt="Rocky Linux" height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg">
 <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
