@@ -22,7 +22,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <p align="left">
 <img alt="Linux" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png">
 <img alt="Windows" height="45" src="https://cdn.worldvectorlogo.com/logos/windows.svg">
-<img alt="Kubernetes" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png">
+<img alt="Kubernetes" height="45" src="https://i.imgur.com/fCzwuS4.png">
 <img alt="Active Directory" height="45" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img alt="Bash" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img alt="PowerShell" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
