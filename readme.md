@@ -49,4 +49,5 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Wireshark" height="45" src="https://i.imgur.com/ml2fxbW.png">
 <img alt="Ollama" height="45" src="https://ollama.com/public/ollama.png">
 <img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
+<img alt="Wazuh" height="45" src="https://i.imgur.com/zxxwmrG.png">
 </p>
