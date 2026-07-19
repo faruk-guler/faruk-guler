@@ -29,15 +29,15 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Ansible" height="45" src="https://i.imgur.com/5rYpZHx.png">
 <img alt="Docker" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img alt="Debian" height="45" src="https://i.imgur.com/Oaw9JpX.png">
+<img alt="OpenShift" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/960px-OpenShift-LogoType.svg.png">
 <img alt="Rocky Linux" height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg">
+<img alt="OPNsense" height="45" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img alt="Git" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
-<img alt="OPNsense" height="45" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
-<img alt="OpenShift" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/960px-OpenShift-LogoType.svg.png">
 <img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img alt="Proxmox" height="45" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img alt="Nmap" height="45" src="https://nmap.org/images/sitelogo-2x.png">
