@@ -35,7 +35,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img alt="Git" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
-<img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
+<img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
 <img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
