@@ -41,8 +41,9 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
 <img alt="Proxmox" height="45" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img alt="Nmap" height="45" src="https://nmap.org/images/sitelogo-2x.png">
+<img alt="Grafana" height="45" src="https://media.sys.truenas.net/apps/grafana/icons/icon.png">
 <img alt="Azure" height="45" src="https://www.pngmart.com/files/23/Azure-Logo-PNG-Photo.png">
-<img alt="Azure" height="45" src="https://narweb.net/wp-content/uploads/2023/08/truenas-logo.jpg">
+<img alt="Truenas" height="45" src="https://narweb.net/wp-content/uploads/2023/08/truenas-logo.jpg">
 <img alt="Zabbix" height="45" src="https://post-schwarz.de/wp-content/uploads/2020/06/891729651d169fe5627ad2e67241eec9.jpeg">
 <img alt="Python" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png">
 <img alt="Exchange" height="45" src="https://supforce.com/wp-content/uploads/2026/02/Exchange_logo-400x200.png">
