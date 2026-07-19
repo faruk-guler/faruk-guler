@@ -35,6 +35,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Git" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Veeam-backup-replication-v9-logo.png">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
+<img alt="OPNsense" height="45" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
 <img alt="OpenShift" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/960px-OpenShift-LogoType.svg.png">
 <img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
@@ -45,7 +46,6 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Python" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png">
 <img alt="Exchange" height="45" src="https://supforce.com/wp-content/uploads/2026/02/Exchange_logo-400x200.png">
 <img alt="Office365" height="45" src="https://www.aegolius.nl/online-training-bestellen/wp-content/uploads/2019/08/office365.png">
-<img alt="OPNsense" height="45" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img alt="Wireshark" height="45" src="https://i.imgur.com/ml2fxbW.png">
 <img alt="Ollama" height="45" src="https://ollama.com/public/ollama.png">
 <img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
