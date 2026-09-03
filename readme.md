@@ -38,7 +38,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
-<img alt="VMware" height="45" src="https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/logo-vmware.png">
+<img alt="VMware" height="45" src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg">
 <img alt="Proxmox" height="45" src="https://ict-berlin.de/wp-content/uploads/2024/10/proxmox-logo-stacked-color.svg">
 <img alt="Nmap" height="45" src="https://nmap.org/images/sitelogo-2x.png">
 <img alt="Grafana" height="45" src="https://media.sys.truenas.net/apps/grafana/icons/icon.png">
