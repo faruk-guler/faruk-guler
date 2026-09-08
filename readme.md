@@ -35,7 +35,6 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img alt="Git" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
-<img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
 <img alt="VMware" height="45" src="https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt5a3e185aed7848a3/65fac63dd3267616e27e7051/vmware-logo-grey.svg">
@@ -53,4 +52,5 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Wazuh" height="45" src="https://wazuh.com/uploads/2022/05/WAZUH.png">
 <img alt="Redis" height="45" src="https://i.imgur.com/zxxwmrG.png">
 <img alt="Ceph" height="45" src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_Reversed_120411_fa.png">
+<img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
 </p>
