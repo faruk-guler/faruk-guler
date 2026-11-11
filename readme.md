@@ -33,7 +33,6 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Rocky Linux" height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg">
 <img alt="OPNsense" height="45" src="https://www.compination.ch/wp-content/uploads/2025/02/Logo-OPNsense_verticaal-768x712.png">
 <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-<img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img alt="Git" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
 <img alt="Rancher" height="45" src="https://deso.tech/wp-content/uploads/2023/03/Suse-rancher.png">
 <img alt="OpenStack" height="45" src="https://avatars.githubusercontent.com/u/324574">
@@ -53,4 +52,5 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Redis" height="45" src="https://i.imgur.com/zxxwmrG.png">
 <img alt="Ceph" height="45" src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_Reversed_120411_fa.png">
 <img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
+<img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 </p>
