@@ -26,7 +26,7 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Active Directory" height="45" src="https://symbols.getvecta.com/stencil_27/4_active-directory.0d97ea0de6.svg">
 <img alt="Bash" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img alt="PowerShell" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
-<img alt="Ansible" height="45" src="https://i.imgur.com/5rYpZHx.png">
+<img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
 <img alt="Docker" height="45" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png">
 <img alt="Debian" height="45" src="https://i.imgur.com/Oaw9JpX.png">
 <img alt="OpenShift" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/960px-OpenShift-LogoType.svg.png">
@@ -52,5 +52,5 @@ Linux • Windows Server • VMware ESXI • NSX-T • Active Directory • Ansi
 <img alt="Redis" height="45" src="https://i.imgur.com/zxxwmrG.png">
 <img alt="Ceph" height="45" src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_Reversed_120411_fa.png">
 <img alt="Veeam" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Veeam_logo.png">
-<img alt="NGINX" height="45" src="https://forum.nginx.org/nginx-icon-logo.png">
+<img alt="Ansible" height="45" src="https://i.imgur.com/5rYpZHx.png">
 </p>
